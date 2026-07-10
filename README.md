@@ -1,5 +1,7 @@
 # Diesel Linux 1.0 "Ignition" — Debian Edition (GNOME)
 
+[Download](https://github.com/oh-okay/Diesel-Linux-DEBIAN-BASED/releases/tag/Debian-DL-1.0) (778 MB)
+
 ![Diesel Linux](https://raw.githubusercontent.com/oh-okay/Diesel-Linux/main/diesel_linux_logo.png)
 
 ## Overview
