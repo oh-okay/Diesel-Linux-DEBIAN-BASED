@@ -2,7 +2,6 @@
 
 ## (Download)[https://github.com/oh-okay/Diesel-Linux-DEBIAN-BASED/releases/tag/Debian-DL-1.0]
 
-
 ![Diesel Linux Logo](https://raw.githubusercontent.com/oh-okay/Diesel-Linux/main/diesel_linux_logo.png)
 
 Diesel Linux is a lightweight, developer-focused Linux distribution unlike the old Ubuntu based version, this one is based on Debian 12 (Bookworm). It ships with GNOME, sensible performance tweaks, and a collection of development tools so you can get to work immediately.
