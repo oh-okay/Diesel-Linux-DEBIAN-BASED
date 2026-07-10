@@ -1,8 +1,7 @@
 # Diesel Linux 1.0 "Ignition"
 
-## [Download](https://github.com/oh-okay/Diesel-Linux-DEBIAN-BASED/releases/tag/Debian-DL-1.0)
+## (Download)[https://github.com/oh-okay/Diesel-Linux-DEBIAN-BASED/releases/tag/Debian-DL-1.0]
 
-**https://github.com/oh-okay/Diesel-Linux-DEBIAN-BASED/releases/tag/Debian-DL-1.0**
 
 ![Diesel Linux Logo](https://raw.githubusercontent.com/oh-okay/Diesel-Linux/main/diesel_linux_logo.png)
 
